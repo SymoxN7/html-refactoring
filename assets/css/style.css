@@ -86,17 +86,17 @@ p {
     background-color: #2589bd;
 }
 
-/* Text placement/colour for benefits content (Right side of page) */
+/* Text placement/colour for benefits content (Right side of page) consolidated */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Header placement for benefits content (Right side of page) */
+/* Header placement for benefits content (Right side of page) consolidated*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Image sizing for benefits content (Right side of page) */
+/* Image sizing for benefits content (Right side of page) consolidated*/
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -111,11 +111,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Image sizing for services content (Right side of page) consolidated*/
 .services img {
     max-height: 200px;
 }
-
+/* Header placement for services content (Right side of page) consolidated*/
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
