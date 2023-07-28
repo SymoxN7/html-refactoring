@@ -1,17 +1,37 @@
-# 01-challenge
+# HTML Refactoring
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Changes](#changes)
 * [License](#license)
 
 ## Installation
 
 Simply go to the link - *URL* 
 
-## Usage 
+## Usage
 
 This webpage is to provide information on what services and benefits Horiseon can provided to potential customers.
 The top bar will include 3 links that clicking will take you to the relevant sections, these sections provide further information on the services. The right bar shows the benefits of working with Horiseon.
+
+## Changes
+
+### HTML Changes:
+Changed all <div> to <sections> 
+Added alt to all img lines
+Changed line 29 from class= to id= - this was preventing the link from working
+
+
+### CCS Changes:
+Renamed .header div to .header section
+Renamed .header div ul to .header section ul
+Renamed .header div ul li to .header section ul li
+Consolidated CCS classes .benefit-lead, .benefit-brand & .benefit-cost into .benefit
+Consolidated CCS classes .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 into .benefit h3
+Consolidated CCS classes .benefit-lead img, .benefit-brand img, .benefit-cost img into .benefit img
+Consolidated CCS classes .search-engine-optimization, .online-reputation-management, .social-media-marketing into .services
+Consolidated CCS classes .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img into .services img
+Consolidated CCS classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 into .services h2
 
 Background image:
 
