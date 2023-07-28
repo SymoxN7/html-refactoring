@@ -17,21 +17,21 @@ The top bar will include 3 links that clicking will take you to the relevant sec
 ## Changes
 
 ### HTML Changes:
-Changed all <div> to <sections> 
-Added alt to all img lines
-Changed line 29 from class= to id= - this was preventing the link from working
+1. Changed all <div> to <sections> 
+2. Added alt to all img lines
+3. Changed line 29 from class= to id= - this was preventing the link from working
 
 
 ### CCS Changes:
-Renamed .header div to .header section
-Renamed .header div ul to .header section ul
-Renamed .header div ul li to .header section ul li
-Consolidated CCS classes .benefit-lead, .benefit-brand & .benefit-cost into .benefit
-Consolidated CCS classes .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 into .benefit h3
-Consolidated CCS classes .benefit-lead img, .benefit-brand img, .benefit-cost img into .benefit img
-Consolidated CCS classes .search-engine-optimization, .online-reputation-management, .social-media-marketing into .services
-Consolidated CCS classes .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img into .services img
-Consolidated CCS classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 into .services h2
+1. Renamed .header div to .header section
+2. Renamed .header div ul to .header section ul
+3. Renamed .header div ul li to .header section ul li
+4. Consolidated CCS classes .benefit-lead, .benefit-brand & .benefit-cost into .benefit
+5. Consolidated CCS classes .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 into .benefit h3
+6. Consolidated CCS classes .benefit-lead img, .benefit-brand img, .benefit-cost img into .benefit img
+7. Consolidated CCS classes .search-engine-optimization, .online-reputation-management, .social-media-marketing into .services
+8. Consolidated CCS classes .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img into .services img
+9. Consolidated CCS classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 into .services h2
 
 Background image:
 
