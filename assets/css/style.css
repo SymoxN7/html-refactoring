@@ -1,29 +1,31 @@
-* {
+* 
+/* Border, padding and margin sizing for whole page"*/
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Background colour for page"*/
 body {
     background-color: #d9dcd6;
 }
-
+/* Formatting for header"*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Formatting for header"*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Formatting for "seo" portion of Horiseon"*/
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Formatting for nav bar and text*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +33,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Formatting for header list*/
 header nav ul {
     list-style-type: none;
 }
-
+/* Formatting for header list*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -58,12 +60,12 @@ figure {
     background-size: cover;
     background-position: center;
 }
-
+/* Keeps image on the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Keeps image on the right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -121,7 +123,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer information formatting*/
 footer {
     padding: 30px;
     clear: both;
