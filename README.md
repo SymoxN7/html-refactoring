@@ -7,7 +7,7 @@
 
 ## Installation
 
-Simply go to the link - *URL* 
+Simply go to the link - https://symoxn7.github.io/html-refactoring/#search-engine-optimization
 
 ## Usage
 
@@ -20,6 +20,9 @@ The top bar will include 3 links that clicking will take you to the relevant sec
 1. Changed all div to section
 2. Added alt to all img lines
 3. Changed line 29 from class= to id= - this was preventing the link from working
+4. Changed line 12 and 27 from section to header
+5. Changed line 31 and 53 from section to nav
+6. Changed line 55 and 77 from section to aside
 
 
 ### CCS Changes:
