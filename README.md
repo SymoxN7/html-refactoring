@@ -17,7 +17,7 @@ The top bar will include 3 links that clicking will take you to the relevant sec
 ## Changes
 
 ### HTML Changes:
-1. Changed all <div> to <sections> 
+1. Changed all div to section
 2. Added alt to all img lines
 3. Changed line 29 from class= to id= - this was preventing the link from working
 
