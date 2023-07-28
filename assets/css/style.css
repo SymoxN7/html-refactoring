@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 /* Main img */
-.hero {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -68,15 +68,15 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* Services section placement */
-.content {
+/* main section placement */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Benefits section formatting */
-.benefits {
+/* aside section formatting */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -122,13 +122,10 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
