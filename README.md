@@ -13,7 +13,15 @@ Simply go to the link - *URL*
 This webpage is to provide information on what services and benefits Horiseon can provided to potential customers.
 The top bar will include 3 links that clicking will take you to the relevant sections, these sections provide further information on the services. The right bar shows the benefits of working with Horiseon.
 
-![Marketing meeting main picture](./assets/images/digital-marketing-meeting.jpg)
+Background image:
+
+![digital-marketing-meeting](./assets/images/digital-marketing-meeting.jpg)
+
+Main contenct images:
+
+![social-media-marketing](./assets/images/social-media-marketing.jpg)
+![search-engine-optimization](./assets/images/search-engine-optimization.jpg)
+![online-reputation-management](./assets/images/online-reputation-management.jpg)
 
 ## License
 
